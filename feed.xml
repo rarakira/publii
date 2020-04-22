@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>My first Publii site</title>
+    <link href="https://rarakira.github.io/publii/feed.xml" rel="self" />
+    <link href="https://rarakira.github.io/publii" />
+    <updated>2020-04-22T11:37:01+03:00</updated>
+    <author>
+        <name>Kira Sle</name>
+    </author>
+    <id>https://rarakira.github.io/publii</id>
+
+    <entry>
+        <title>Features</title>
+        <author>
+            <name>Kira Sle</name>
+        </author>
+        <link href="https://rarakira.github.io/publii/features.html"/>
+        <id>https://rarakira.github.io/publii/features.html</id>
+
+        <updated>2020-04-06T17:02:35+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Q1 – Urgent and importantWork tasksQ2 – Not urgent but importantPlanningImplementing changeLearning &amp; professional developmentQ3 – Urgent but not importantTasks that have to be done with low impactQ4 – Not urgent and not importantDistractionsChatsSurfing the web
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul class="ul1">
+<li class="li1">Q1 – Urgent and important
+<ul class="ul2">
+<li class="li1">Work tasks</li>
+</ul>
+</li>
+<li class="li1">Q2 – Not urgent but important
+<ul class="ul2">
+<li class="li1">Planning</li>
+<li class="li1">Implementing change</li>
+<li class="li1">Learning &amp; professional development</li>
+</ul>
+</li>
+<li class="li1">Q3 – Urgent but not important
+<ul class="ul2">
+<li class="li1">Tasks that have to be done with low impact</li>
+</ul>
+</li>
+<li class="li1">Q4 – Not urgent and not important
+<ul class="ul2">
+<li class="li1">Distractions</li>
+<li class="li1">Chats</li>
+<li class="li1">Surfing the web</li>
+</ul>
+</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The site name</title>
+        <author>
+            <name>Kira Sle</name>
+        </author>
+        <link href="https://rarakira.github.io/publii/the-site-name.html"/>
+        <id>https://rarakira.github.io/publii/the-site-name.html</id>
+
+        <updated>2020-04-06T17:01:22+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Some text Lorem Ipsum Some more textButton
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="mcetoc_1e57sn87c0">Some text Lorem Ipsum Some more text</h1>
+<button>Button</button>
+            ]]>
+        </content>
+    </entry>
+</feed>

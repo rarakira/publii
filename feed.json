@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My first Publii site",
+    "description": "",
+    "home_page_url": "https://rarakira.github.io/publii",
+    "feed_url": "https://rarakira.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kira Sle"
+    },
+    "items": [
+        {
+            "id": "https://rarakira.github.io/publii/features.html",
+            "url": "https://rarakira.github.io/publii/features.html",
+            "title": "Features",
+            "summary": "Q1 – Urgent and importantWork tasksQ2 – Not urgent but importantPlanningImplementing changeLearning &amp; professional developmentQ3 – Urgent but not importantTasks that have to be done with low impactQ4 – Not urgent and not importantDistractionsChatsSurfing the web",
+            "content_html": "<ul class=\"ul1\">\n<li class=\"li1\">Q1 – Urgent and important\n<ul class=\"ul2\">\n<li class=\"li1\">Work tasks</li>\n</ul>\n</li>\n<li class=\"li1\">Q2 – Not urgent but important\n<ul class=\"ul2\">\n<li class=\"li1\">Planning</li>\n<li class=\"li1\">Implementing change</li>\n<li class=\"li1\">Learning &amp; professional development</li>\n</ul>\n</li>\n<li class=\"li1\">Q3 – Urgent but not important\n<ul class=\"ul2\">\n<li class=\"li1\">Tasks that have to be done with low impact</li>\n</ul>\n</li>\n<li class=\"li1\">Q4 – Not urgent and not important\n<ul class=\"ul2\">\n<li class=\"li1\">Distractions</li>\n<li class=\"li1\">Chats</li>\n<li class=\"li1\">Surfing the web</li>\n</ul>\n</li>\n</ul>",
+            "author": {
+                "name": "Kira Sle"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-06T17:02:35+03:00",
+            "date_modified": "2020-04-06T17:02:35+03:00"
+        },
+        {
+            "id": "https://rarakira.github.io/publii/the-site-name.html",
+            "url": "https://rarakira.github.io/publii/the-site-name.html",
+            "title": "The site name",
+            "summary": "Some text Lorem Ipsum Some more textButton",
+            "content_html": "<h1 id=\"mcetoc_1e57sn87c0\">Some text Lorem Ipsum Some more text</h1>\n<button>Button</button>",
+            "author": {
+                "name": "Kira Sle"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-06T17:01:22+03:00",
+            "date_modified": "2020-04-06T17:01:22+03:00"
+        }
+    ]
+}
